@@ -3,7 +3,7 @@
 ### I'm a FrontEnd Developer
 - I Love Programming
 - I Learning new Languages
-- I'm student of MFUA
+- I'm a student at MFUA
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FE)
