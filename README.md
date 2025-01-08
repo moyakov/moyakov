@@ -12,6 +12,7 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=47C5FE)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23&logoColor=8CC84B)
 
+
 ### Follow me
 [VK](https://vk.com/id806316484)
 [Telegram](https://t.me/moyakov1)
