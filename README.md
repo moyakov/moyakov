@@ -24,3 +24,10 @@ val aboutMe = object {
     val education = "🎓 Student at MFUA | Computer Science"
     val vision = "Building the future 🔮 one app at a time"
 }
+
+val currentProjects = listOf(
+    "📱 Building innovative Android applications",
+    "🧠 Learning advanced Kotlin patterns",
+    "⚡ Exploring Jetpack Compose animations",
+    "🔗 Integrating modern APIs and services"
+)
