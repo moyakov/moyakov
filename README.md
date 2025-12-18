@@ -1,69 +1,16 @@
 <div align="center">
 
+  <!-- Эффект печатающегося вступления -->
   <div align="center">
     <h3>🎬 Сцена загрузки системы...</h3>
     <div id="typing-intro" style="font-family: 'Cascadia Code', monospace; font-size: 1.2rem; color: #00FFFF; text-align: left; max-width: 600px; margin: 40px auto; padding: 20px; background: rgba(0, 0, 0, 0.3); border-radius: 10px; border-left: 4px solid #00FFFF;">
       <span id="typing-text"></span>
-      <span class="cursor">|</span>
+      <span class="cursor" id="cursor">|</span>
     </div>
-    <script>
-      const introText = [
-        "Инициализация системы... OK",
-        "Загрузка профиля разработчика...",
-        "Имя: Руслан Ковалёв",
-        "Специализация: Android Developer",
-        "Уровень: Junior → Middle",
-        "Статус: Активный разработчик",
-        "Локация: Москва, Россия",
-        "Образование: МФЮА | Computer Science",
-        "Загрузка завершена ✅",
-        "Добро пожаловать в мой мир кода 🚀"
-      ];
-      
-      let lineIndex = 0;
-      let charIndex = 0;
-      let typingSpeed = 50;
-      let lineDelay = 800;
-      
-      function typeWriter() {
-        const typingElement = document.getElementById('typing-text');
-        
-        if (lineIndex < introText.length) {
-          if (charIndex < introText[lineIndex].length) {
-            typingElement.innerHTML += introText[lineIndex].charAt(charIndex);
-            charIndex++;
-            setTimeout(typeWriter, typingSpeed);
-          } else {
-            typingElement.innerHTML += '<br>';
-            charIndex = 0;
-            lineIndex++;
-            setTimeout(typeWriter, lineDelay);
-          }
-        }
-      }
-    
-      document.addEventListener('DOMContentLoaded', function() {
-        setTimeout(typeWriter, 1000);
-        
-        const cursor = document.querySelector('.cursor');
-        setInterval(() => {
-          cursor.style.visibility = cursor.style.visibility === 'hidden' ? 'visible' : 'hidden';
-        }, 500);
-      });
-    </script>
-    <style>
-      .cursor {
-        animation: blink 1s infinite;
-        font-weight: bold;
-        color: #00FFFF;
-      }
-      @keyframes blink {
-        0%, 50% { opacity: 1; }
-        51%, 100% { opacity: 0; }
-      }
-    </style>
   </div>
 
+  <!-- Анимированный заголовок -->
+  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&width=500&lines=console.log('Hello World!');Ruslan+Kovalev;Android+Developer;Innovator+in+Progress" alt="Typing SVG" />
   </a>
@@ -85,7 +32,7 @@
 
 ```kotlin
 data class DeveloperProfile(
-    val name: String = "Ruslan Kovalev",
+    val name: String = "Ruslan Kuliyev",
     val role: String = "Android Developer",
     val level: String = "Junior → Middle",
     val location: String = "Moscow, RU",
