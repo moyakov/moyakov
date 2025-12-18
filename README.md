@@ -7,10 +7,9 @@
       <pre style="margin: 0; color: #00FFFF;">
 Инициализация системы... <span style="color: #3DDC84;">OK</span>
 Загрузка профиля разработчика...
-Имя: <span style="color: #FF6B8B;">Руслан Ковалёв</span>
+Имя: <span style="color: #FF6B8B;">Руслан Кулиев</span>
 Специализация: <span style="color: #7F52FF;">Android Developer</span>
 Уровень: <span style="color: #00FFFF;">Junior → Middle</span>
-Статус: <span style="color: #FFCA28;">Активный разработчик</span>
 Локация: <span style="color: #26A5E4;">Москва, Россия</span>
 Образование: <span style="color: #3DDC84;">МФЮА | Computer Science</span>
 Загрузка завершена <span style="color: #3DDC84;">✅</span>
@@ -22,7 +21,7 @@
 
   
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&width=500&lines=console.log('Hello+World!');Ruslan+Kovalev;Android+Developer;Innovator+in+Progress" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&width=500&lines=fun+main()+{+println('Hi!')+};Ruslan+Kuliyev;Kotlin+Developer;t.me/moyakov1" alt="Typing Animation" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Coding%20the%20Future-00FFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117&borderColor=0077FF" alt="Status" />
@@ -36,7 +35,6 @@
 <p align="justify">
   <img src="https://img.shields.io/badge/Уровень-Junior%20Developer-7F52FF?style=flat-square&logo=rocket&logoColor=white&labelColor=0d1117" alt="Level" />
   <img src="https://img.shields.io/badge/Направление-Android%20Development-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=0d1117" alt="Focus" />
-  <img src="https://img.shields.io/badge/Статус-Активный%20разработчик-FF6B8B?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Active" />
 </p>
 
 ```kotlin
