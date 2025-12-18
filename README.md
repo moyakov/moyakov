@@ -20,38 +20,34 @@
     </div>
     
     <div style="margin-top: 30px;">
-        <span style="color: #3DDC84; animation: pulse 1s infinite;">●</span>
-        <span style="color: #7F52FF; animation: pulse 1s infinite 0.3s;">●</span>
-        <span style="color: #00FFFF; animation: pulse 1s infinite 0.6s;">●</span>
-        <span style="color: #FF6B8B; animation: pulse 1s infinite 0.9s;">●</span>
+        <span style="color: #3DDC84; display: inline-block; animation: pulse 1s infinite;">●</span>
+        <span style="color: #7F52FF; display: inline-block; animation: pulse 1s infinite; animation-delay: 0.3s;">●</span>
+        <span style="color: #00FFFF; display: inline-block; animation: pulse 1s infinite; animation-delay: 0.6s;">●</span>
+        <span style="color: #FF6B8B; display: inline-block; animation: pulse 1s infinite; animation-delay: 0.9s;">●</span>
     </div>
     
     </div>
 </div>
 
-<style>
+<div style="display: none;">
+  <style>
     @keyframes pulse {
-        0%, 100% { opacity: 0.3; transform: scale(0.8); }
-        50% { opacity: 1; transform: scale(1.2); }
+      0%, 100% { opacity: 0.3; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.2); }
     }
-    
-    @keyframes neon-glow {
-        0%, 100% { text-shadow: 0 0 10px #00FFFF; }
-        50% { text-shadow: 0 0 20px #00FFFF, 0 0 30px #0077FF; }
-    }
-</style>
-
-  
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&width=500&lines=val+name+%3D+'Ruslan';val+role+%3D+'Android+Dev';Kotlin+%7C+Jetpack+Compose;Connect+on+Telegram" alt="Typing Animation" />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Coding%20the%20Future-00FFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117&borderColor=0077FF" alt="Status" />
-    <img src="https://img.shields.io/badge/Mode-Creative%20Flow-7F52FF?style=for-the-badge&logo=creative-commons&logoColor=white&labelColor=0d1117&borderColor=7F52FF" alt="Mode" />
-  </p>
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" height="2" />
+  </style>
 </div>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&width=500&lines=val+name+%3D+'Ruslan';val+role+%3D+'Android+Dev';Kotlin+%7C+Jetpack+Compose;Connect+on+Telegram" alt="Typing Animation" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding%20the%20Future-00FFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117&borderColor=0077FF" alt="Status" />
+  <img src="https://img.shields.io/badge/Mode-Creative%20Flow-7F52FF?style=for-the-badge&logo=creative-commons&logoColor=white&labelColor=0d1117&borderColor=7F52FF" alt="Mode" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" height="2" />
 
 ## 🛰️ **Системный профиль**
 <p align="justify">
@@ -61,7 +57,7 @@
 
 ```kotlin
 data class DeveloperProfile(
-    val name: String = "Ruslan Kovalev",
+    val name: String = "Ruslan Kuliyev",
     val role: String = "Android Developer",
     val level: String = "Junior → Middle",
     val location: String = "Moscow, RU",
