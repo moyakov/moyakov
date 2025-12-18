@@ -3,21 +3,49 @@
   
   <div align="center">
     <h3>🎬 Сцена загрузки системы...</h3>
-    <div style="font-family: 'Cascadia Code', monospace; font-size: 1.2rem; color: #00FFFF; text-align: left; max-width: 600px; margin: 40px auto; padding: 20px; background: rgba(0, 0, 0, 0.3); border-radius: 10px; border-left: 4px solid #00FFFF;">
-      <pre style="margin: 0; color: #00FFFF;">
-Инициализация системы... <span style="color: #3DDC84;">OK</span>
-Загрузка профиля разработчика...
-Имя: <span style="color: #FF6B8B;">Руслан Кулиев</span>
-Специализация: <span style="color: #7F52FF;">Android Developer</span>
-Уровень: <span style="color: #00FFFF;">Junior → Middle</span>
-Локация: <span style="color: #26A5E4;">Москва, Россия</span>
-Образование: <span style="color: #3DDC84;">МФЮА | Computer Science</span>
-Загрузка завершена <span style="color: #3DDC84;">✅</span>
-<span style="color: #00FFFF; font-weight: bold;">Добро пожаловать в мой мир кода 🚀</span>
-      </pre>
-      <span style="animation: blink 1s infinite; font-weight: bold; color: #00FFFF;">|</span>
+    
+    <!-- Анимированный текст через ASCII-арт с анимацией -->
+    <div style="font-family: 'Cascadia Code', monospace; font-size: 1.2rem; color: #00FFFF; text-align: center; max-width: 600px; margin: 40px auto; padding: 20px; background: rgba(0, 0, 0, 0.3); border-radius: 10px; border-left: 4px solid #00FFFF;">
+    
+    <!-- Финальная статичная версия -->
+    <div id="final-text" style="display: block;">
+        <div style="color: #FF6B8B; font-size: 1.5rem; font-weight: bold;">Руслан Кулиев</div>
+        <div style="color: #7F52FF; font-size: 1.2rem;">Android Developer</div>
+        <div style="color: #00FFFF; margin-top: 10px; font-size: 1rem;">
+            Москва, Россия | МФЮА | Junior → Middle
+        </div>
     </div>
-  </div>
+    
+    <!-- "Анимация" через многоточие -->
+    <div style="color: #3DDC84; margin-top: 20px; font-size: 0.9rem;">
+        <span class="dot1">●</span>
+        <span class="dot2">●</span>
+        <span class="dot3">●</span>
+    </div>
+    
+    </div>
+</div>
+
+<style>
+    /* Простая анимация точек */
+    .dot1, .dot2, .dot3 {
+        opacity: 0;
+        animation: dotAnimation 1.5s infinite;
+    }
+    
+    .dot2 { animation-delay: 0.5s; }
+    .dot3 { animation-delay: 1s; }
+    
+    @keyframes dotAnimation {
+        0%, 100% { opacity: 0; }
+        50% { opacity: 1; }
+    }
+    
+    @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+    }
+</style>
 
   
   <br>
