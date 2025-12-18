@@ -13,13 +13,13 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### 🚀 Follow Me
+### ⚡ Digital Reach
 
-<p align="left">
-  <a href="https://vk.com/id806316484" target="_blank">
-    <img src="https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=0d1117&color=0d1117" alt="VK" />
+<div align="left">
+  <a href="https://vk.com/id806316484" target="_blank" style="display: inline-block; margin-right: 15px; transition: transform 0.3s ease;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-VK-0077FF?style=for-the-badge&logo=color=vk&logoColor=white&labelColor=1a1a2e" alt="VK" />
   </a>
-  <a href="https://t.me/moyakov1" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117&color=0d1117" alt="Telegram" />
+  <a href="https://t.me/moyakov1" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Telegram-26A5E4?style=for-the-badge&logo=color=telegram&logoColor=white&labelColor=1a1a2e" alt="Telegram" />
   </a>
-</p>
+</div>
