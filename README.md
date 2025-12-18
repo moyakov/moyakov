@@ -24,4 +24,4 @@
 </p>
 
 
-![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyakov&show_icons=true&theme=radical)
