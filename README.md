@@ -1,43 +1,43 @@
 <div align="center">
-
     <h3>🎬 Сцена загрузки системы...</h3>
     
-    <div style="font-family: 'Cascadia Code', monospace; font-size: 1.2rem; color: #00FFFF; text-align: center; max-width: 600px; margin: 40px auto; padding: 20px; background: rgba(0, 0, 0, 0.3); border-radius: 10px; border-left: 4px solid #00FFFF;">
+    <div style="font-family: 'Cascadia Code', monospace; color: #00FFFF; text-align: center; max-width: 600px; margin: 40px auto; padding: 20px; background: rgba(0, 0, 0, 0.3); border-radius: 10px; border: 1px solid #00FFFF;">
     
-    <div id="final-text" style="display: block;">
-        <div style="color: #FF6B8B; font-size: 1.5rem; font-weight: bold;">Руслан Кулиев</div>
-        <div style="color: #7F52FF; font-size: 1.2rem;">Android Developer</div>
-        <div style="color: #00FFFF; margin-top: 10px; font-size: 1rem;">
-            Москва, Россия | МФЮА | Junior → Middle
+    <div style="text-shadow: 0 0 10px #00FFFF, 0 0 20px #0077FF;">
+        <div style="color: #FF6B8B; font-size: 2rem; font-weight: bold; letter-spacing: 2px;">
+            РУСЛАН КУЛИЕВ
+        </div>
+        
+        <div style="color: #7F52FF; font-size: 1.5rem; margin: 10px 0;">
+            ⚡ Android Developer
+        </div>
+        
+        <div style="color: #00FFFF; font-size: 1rem; margin-top: 20px;">
+            <div>📍 Москва, Россия</div>
+            <div>🎓 МФЮА | Computer Science</div>
+            <div>🚀 Junior → Middle Level</div>
         </div>
     </div>
     
-    <div style="color: #3DDC84; margin-top: 20px; font-size: 0.9rem;">
-        <span class="dot1">●</span>
-        <span class="dot2">●</span>
-        <span class="dot3">●</span>
+    <div style="margin-top: 30px;">
+        <span style="color: #3DDC84; animation: pulse 1s infinite;">●</span>
+        <span style="color: #7F52FF; animation: pulse 1s infinite 0.3s;">●</span>
+        <span style="color: #00FFFF; animation: pulse 1s infinite 0.6s;">●</span>
+        <span style="color: #FF6B8B; animation: pulse 1s infinite 0.9s;">●</span>
     </div>
     
     </div>
 </div>
 
 <style>
-    .dot1, .dot2, .dot3 {
-        opacity: 0;
-        animation: dotAnimation 1.5s infinite;
+    @keyframes pulse {
+        0%, 100% { opacity: 0.3; transform: scale(0.8); }
+        50% { opacity: 1; transform: scale(1.2); }
     }
     
-    .dot2 { animation-delay: 0.5s; }
-    .dot3 { animation-delay: 1s; }
-    
-    @keyframes dotAnimation {
-        0%, 100% { opacity: 0; }
-        50% { opacity: 1; }
-    }
-    
-    @keyframes blink {
-        0%, 50% { opacity: 1; }
-        51%, 100% { opacity: 0; }
+    @keyframes neon-glow {
+        0%, 100% { text-shadow: 0 0 10px #00FFFF; }
+        50% { text-shadow: 0 0 20px #00FFFF, 0 0 30px #0077FF; }
     }
 </style>
 
