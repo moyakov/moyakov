@@ -13,15 +13,13 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### Follow me
+### 🌌 Connect With Me
+
 <p align="left">
   <a href="https://vk.com/id806316484" target="_blank">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+    <img src="https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=vk&logoColor=white&labelColor=0077FF&color=000000&border=1px&borderColor=00FFFF&shadow=0px_0px_15px_#0077FF" alt="VK" />
   </a>
   <a href="https://t.me/moyakov1" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=000000&border=1px&borderColor=00FFFF&shadow=0px_0px_15px_#26A5E4" alt="Telegram" />
   </a>
 </p>
-
-
-![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyakov&show_icons=true&theme=radical)
