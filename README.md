@@ -1,13 +1,9 @@
 <div align="center">
 
-  
-  <div align="center">
     <h3>🎬 Сцена загрузки системы...</h3>
     
-    <!-- Анимированный текст через ASCII-арт с анимацией -->
     <div style="font-family: 'Cascadia Code', monospace; font-size: 1.2rem; color: #00FFFF; text-align: center; max-width: 600px; margin: 40px auto; padding: 20px; background: rgba(0, 0, 0, 0.3); border-radius: 10px; border-left: 4px solid #00FFFF;">
     
-    <!-- Финальная статичная версия -->
     <div id="final-text" style="display: block;">
         <div style="color: #FF6B8B; font-size: 1.5rem; font-weight: bold;">Руслан Кулиев</div>
         <div style="color: #7F52FF; font-size: 1.2rem;">Android Developer</div>
@@ -16,7 +12,6 @@
         </div>
     </div>
     
-    <!-- "Анимация" через многоточие -->
     <div style="color: #3DDC84; margin-top: 20px; font-size: 0.9rem;">
         <span class="dot1">●</span>
         <span class="dot2">●</span>
@@ -27,7 +22,6 @@
 </div>
 
 <style>
-    /* Простая анимация точек */
     .dot1, .dot2, .dot3 {
         opacity: 0;
         animation: dotAnimation 1.5s infinite;
