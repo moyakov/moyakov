@@ -21,7 +21,7 @@
 
   
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&width=500&lines=fun+main()+{+println('Hi!')+};Ruslan+Kuliyev;Kotlin+Developer;t.me/moyakov1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&width=500&lines=val+name+%3D+'Ruslan';val+role+%3D+'Android+Dev';Kotlin+%7C+Jetpack+Compose;Connect+on+Telegram" alt="Typing Animation" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Coding%20the%20Future-00FFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117&borderColor=0077FF" alt="Status" />
