@@ -1,9 +1,5 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ruslan)](https://git.io/typing-svg)
-  </a>
-
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Coding%20the%20Future-00FFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117&borderColor=0077FF" alt="Status" />
   </p>
