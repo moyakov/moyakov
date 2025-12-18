@@ -13,7 +13,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### ⚡ Digital Reach
+### Follow me
 
 <div align="left">
   <a href="https://vk.com/id806316484" target="_blank" style="display: inline-block; margin-right: 15px; transition: transform 0.3s ease;">
