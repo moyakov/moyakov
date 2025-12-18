@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ruslan)](https://git.io/typing-svg)
+    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ruslan)](https://git.io/typing-svg)
   </a>
 
   <p align="center">
